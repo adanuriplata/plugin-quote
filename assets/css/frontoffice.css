@@ -1,0 +1,34 @@
+form#motif-mwrq-form .actions {
+    background: #dfdfdf;
+}
+a.button.wc-backward {
+    float: left;
+}
+table#motif-mwrq-list thead tr th {
+    background: #dfdfdf;
+    color: black;
+}
+ul.motif-mwrq-list img {
+    display: inline-block;
+    float: right;
+    margin-left: 4px;
+    width: 32px;
+    height: auto;
+    box-shadow: none;
+}
+ul.motif-mwrq-list li {
+    position: relative;
+    padding-left: 2em;
+    position: relative;
+    padding-top: 0;
+    padding-bottom: 0px;
+}
+ul.motif-mwrq-list a.motif-mwrq-item-remove.remove {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+ul.motif-mwrq-list li a {
+    display: block;
+    font-weight: 700;
+}

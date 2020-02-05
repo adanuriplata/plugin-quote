@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Motif WooCommerce Request a Quote\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-16 14:41+0000\n"
+"PO-Revision-Date: 2019-12-17 19:46+0000\n"
+"Last-Translator: admin <dev-email@flywheel.local>\n"
+"Language-Team: Czech\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.2.5"
+
+#: templates/request-quote-viewa.php:76
+msgid " SKU--"
+msgstr ""
+
+#: mwrq-init.php:94
+msgid "#0a0a0a"
+msgstr ""
+
+#: mwrq-init.php:95
+msgid "#2ab736"
+msgstr ""
+
+#: mwrq-init.php:91
+msgid "Add to Quote"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:77
+msgid "Add to Quote Button"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:222
+msgid "Add to Quote button background color"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:150 includes/mwrq-main-admin.php:154
+msgid "Add to Quote Button Label"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:205
+msgid "Add to Quote button text color"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:121
+msgid "All"
+msgstr ""
+
+#: mwrq-init.php:89
+msgid "all"
+msgstr ""
+
+#: mwrq-init.php:93
+msgid "Already Added"
+msgstr ""
+
+#: includes/mwrq.php:357
+msgid "already in quote"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:184 includes/mwrq-main-admin.php:188
+msgid "Already in Quote Product Text"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:167 includes/mwrq-main-admin.php:171
+msgid "Browse List Text once product added"
+msgstr ""
+
+#: mwrq-init.php:92
+msgid "Browse the list Product Added"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:141
+msgid "Button"
+msgstr ""
+
+#: mwrq-init.php:90
+msgid "button"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:218
+msgid "Button Background Color"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:201
+msgid "Button Text Color"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:435
+msgid "By check this email send form is display under Quote list"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:327
+msgid "By check this hide subtotal column in list page"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:308
+msgid "By check this product sku dispaly on Quote page"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:346
+msgid "By check this show return to shop button on quote list"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:399
+msgid "By check this update list button show on quote page"
+msgstr ""
+
+#: templates/request-quote-form.php:21
+msgid "Email"
+msgstr ""
+
+#: includes/mwrq.php:347
+msgid "Error occurred while adding product to Request a Quote list."
+msgstr ""
+
+#: templates/request-quote-form.php:13
+msgid "First Name"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:120
+msgid "Guests"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:323
+msgid "Hide SubTotal Column"
+msgstr ""
+
+#: templates/request-quote-form.php:17
+msgid "Last Name"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:140
+msgid "Link"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:119
+msgid "Logged In Users"
+msgstr ""
+
+#: templates/request-quote-form.php:25
+msgid "Message"
+msgstr ""
+
+#. Name of the plugin
+#. Description of the plugin
+#: includes/mwrq-main-admin.php:90
+msgid "Motif WooCommerce Request a Quote"
+msgstr ""
+
+#: includes/mwrq-widget.php:15
+msgid "Motif WooCommerce Request a Quote List"
+msgstr ""
+
+#. Author of the plugin
+msgid "motifcreatives"
+msgstr ""
+
+#: mwrq-init.php:100
+msgid "no"
+msgstr ""
+
+#: templates/widget/quote-list.php:16
+msgid "No products in the list"
+msgstr "Ningun producto en la lista"
+
+#: includes/mwrq-main-admin.php:504
+msgctxt "page_slug"
+msgid "request-to-quote-motif"
+msgstr ""
+
+#: includes/mwrq.php:447
+msgid "Please choose product options&hellip;"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:282
+msgid ""
+"Please noted: by selecting page different from the one (plugin default) and "
+"allow customers to go and see their requests a quote list, you will need to "
+"add/insert the following shortcode [motif_request_to_quote]"
+msgstr ""
+
+#: templates/request-quote-viewa.php:160
+msgid "Price"
+msgstr ""
+
+#: templates/request-quote-viewa.php:19 templates/request-quote-viewa.php:71
+msgid "Product"
+msgstr "Producto"
+
+#: includes/mwrq.php:354
+msgid "Product added"
+msgstr "Producto agregado"
+
+#: templates/request-quote-viewa.php:21
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: includes/mwrq-widget.php:71
+msgid "Quote List"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:304
+msgid "Quote Product Sku"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:431
+msgid "Quote Send Email Form"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:395
+msgid "Quote Update List"
+msgstr ""
+
+#: templates/request-quote-viewa.php:51 templates/widget/quote-list.php:30
+msgid "Remove this item"
+msgstr ""
+
+#: includes/mwrq-form.php:39 includes/mwrq-main-admin.php:54
+#: includes/mwrq-main-admin.php:54 includes/mwrq-main-admin.php:505
+msgid "Request a Quote"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:82
+msgid "Request a Quote List"
+msgstr ""
+
+#: mwrq-init.php:102
+msgid "Return to Shop"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:361
+msgid "Return to shop Button Label"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:365
+msgid "Return to shop button lable in quote list"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:378
+msgid "Return to shop button link"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:95
+msgid "Save all changes"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:134
+msgid "Select Request a Quote (Button Type)"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:278
+msgid "Select Request a Quote List Page"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:113
+msgid "Select Users to show Add to Quotes"
+msgstr ""
+
+#: templates/request-quote-form.php:4
+msgid "Send the request"
+msgstr "Enviar la cotización"
+
+#: includes/mwrq-main-admin.php:130
+msgid "Set Display Position"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:382
+msgid "Set return to shop button link in quote page"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:418
+msgid "Set update button label"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:450
+msgid "Show All Total"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:454
+msgid "Show all total row in quote page list"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:109
+msgid "Show Button for Users"
+msgstr ""
+
+#: includes/mwrq-widget.php:103
+msgid "Show Price"
+msgstr ""
+
+#: includes/mwrq-widget.php:13
+msgid "Show products added to your list"
+msgstr ""
+
+#: includes/mwrq-widget.php:112
+msgid "Show Quantity"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:235 includes/mwrq-main-admin.php:254
+msgid "Show Quote Button"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:239
+msgid "Show Quote Button On Archive/Shop Page"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:258
+msgid "Show Quote Button On Single Product Page"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:342
+msgid "Show return to shop button"
+msgstr ""
+
+#: includes/mwrq-widget.php:94
+msgid "Show Thumbnail"
+msgstr ""
+
+#: includes/mwrq-widget.php:121
+msgid "Show Variations"
+msgstr ""
+
+#: includes/mwrq-widget.php:81
+msgid "Title:"
+msgstr ""
+
+#: templates/request-quote-viewa.php:24 templates/request-quote-viewa.php:191
+msgid "Total"
+msgstr ""
+
+#: templates/request-quote-viewa.php:189
+msgid "Total:"
+msgstr ""
+
+#: includes/mwrq-main-admin.php:414
+msgid "Update Button Label"
+msgstr ""
+
+#: mwrq-init.php:105
+msgid "Update Quote List"
+msgstr ""
+
+#: templates/widget/quote-list.php:69
+msgid "View list"
+msgstr "Ver la lista"
+
+#: mwrq-init.php:96 mwrq-init.php:97 mwrq-init.php:99 mwrq-init.php:101
+#: mwrq-init.php:104 mwrq-init.php:106 mwrq-init.php:107
+msgid "yes"
+msgstr ""
+
+#: includes/mwrq-function.php:9
+msgid "Your list is empty, add products to the list to send a request"
+msgstr ""
